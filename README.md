@@ -28,10 +28,4 @@ DeviceSonar needs no licence file or key and has no editions. Every installation
 
 ## Documentation
 
-- [Server Installation](installation-server.md)
-- [Agent Installation](installation-agent.md)
-- [Administration Guide](administration.md)
-- [Reporting Guide](reporting.md)
-- [Sync Tool Guide](sync-tool.md)
-- [Troubleshooting](troubleshooting.md)
-- [Changelog](changelog.md)
+https://github.com/dotraphael/DeviceSonar/wiki
