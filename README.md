@@ -26,6 +26,10 @@ DeviceSonar needs no licence file or key and has no editions. Every installation
 - [Submit Issues](https://github.com/dotraphael/DeviceSonar) - report bugs or request assistance
 - [Commercial Support](https://www.rflsystems.co.uk) - professional support for your DeviceSonar deployment
 
+## Releases
+
+https://github.com/dotraphael/DeviceSonar/releases
+
 ## Documentation
 
 https://github.com/dotraphael/DeviceSonar/wiki
